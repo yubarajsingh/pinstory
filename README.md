@@ -1,0 +1,2 @@
+# pinstory
+django based project
